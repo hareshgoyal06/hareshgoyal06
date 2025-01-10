@@ -10,14 +10,6 @@ I'm a **Computer Engineering student at the University of Waterloo** with a pass
 - 🛠️ Always curious and working on improving my **coding skills**
 
 ---
-## 🚀 About Me
-- 🌱 Currently learning **Full-Stack Development** and **Machine Learning**
-- 📊 Building projects in **Stock Market Prediction** and **Crypto Anomaly Detection**
-- 📚 Exploring **Blockchain** and **AI Ethics**
-- 🎥 Planning a **YouTube Shorts Channel** about **Hindu Mythology** and **Bhagavad Gita Teachings**
-- 🛠️ Always curious and working on improving my **coding skills**
-
----
 ## 🛠️ Technologies I'm Working With
 
 ### Languages
