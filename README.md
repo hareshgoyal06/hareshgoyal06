@@ -46,11 +46,11 @@ I'm a **Computer Engineering student at the University of Waterloo** with a pass
 
 ---
 ## 🔍 Technologies I'm Exploring
-1. **Rust** - A system programming language focused on safety and performance
-2. **Go (Golang)** - A language known for its simplicity and efficiency in building scalable applications
-3. **TensorFlow** - An open-source machine learning framework
-4. **Solidity** - The language for developing smart contracts on Ethereum
-5. **Flutter** - A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase
+1. **Rust**
+2. **Go (Golang)** 
+3. **TensorFlow** 
+4. **Solidity** 
+5. **Flutter** 
 
 
 
