@@ -43,7 +43,6 @@ I'm a **Computer Engineering student at the University of Waterloo** with a pass
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-
 ---
 ## 🔍 Technologies I'm Exploring
 1. **Rust**
