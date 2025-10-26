@@ -44,17 +44,16 @@ role ........................................... Computer Engineering @ UW
 focus .......................................... AI · Full-Stack · Neurotech
 
 education ...................................... B.A.Sc. Computer Engineering @ University of Waterloo
-languages.programming .......................... TypeScript, Python, C++, JS
-stack .......................................... Next.js, Node, React Native
+languages.programming .......................... TypeScript, Python, C++
+stack .......................................... Next.js, Node, React Native, Vite 
 cloud/db ....................................... AWS, Firebase, MongoDB
-tools .......................................... VS Code, Neovim, Git, Docker
+tools .......................................... Cursor, Git, Docker, Figma 
 
-projects ....................................... NeuroBlocks · Mesh · UpTick
-learning ....................................... Agentic LLMs, BCI, systems
+projects ....................................... NeuroBlocks · Tunnel · ChunkeyMonkey
+learning ....................................... Agentic LLMs, Blockchain, Systems Design
 
 contact.personal ............................... <a href="https://hareshgoyal.ca">hareshgoyal.ca</a>
 contact.linkedin ............................... <a href="https://linkedin.com/in/hareshgoyal">linkedin.com/in/hareshgoyal</a>
-contact.x/twitter .............................. <a href="https://x.com/hareshcodes">@hareshcodes</a>
 
 currently ......................................
 • Project Developer @ UW Blueprint (BobaTalks)
