@@ -40,7 +40,7 @@
     <td>
 
 <pre>
-<b>who am i?>
+<b>who am i?</b>
 <b>hareshgoyal06@github</b> ........................... Haresh Goyal
 <b>role</b> ........................................... Computer Engineering @ UW
 <b>focus</b> .......................................... AI · Full-Stack · Neurotech
