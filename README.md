@@ -60,7 +60,6 @@
 <b>currently</b> ......................................
 • Project Developer @ UW Blueprint (BobaTalks)
 • Incoming Software Developer @ BorderPass (Winter 2026)
-• Campus Ambassador @ Intern Insider
 </pre>
 
   </td>
