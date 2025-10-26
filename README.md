@@ -43,6 +43,7 @@ haresh@github .................................. <b>Haresh Goyal</b>
 role ........................................... Computer Engineering @ UW
 focus .......................................... AI · Full-Stack · Neurotech
 
+education ...................................... B.A.Sc. Computer Engineering @ University of Waterloo
 languages.programming .......................... TypeScript, Python, C++, JS
 stack .......................................... Next.js, Node, React Native
 cloud/db ....................................... AWS, Firebase, MongoDB
@@ -55,11 +56,10 @@ contact.personal ............................... <a href="https://hareshgoyal.ca
 contact.linkedin ............................... <a href="https://linkedin.com/in/hareshgoyal">linkedin.com/in/hareshgoyal</a>
 contact.x/twitter .............................. <a href="https://x.com/hareshcodes">@hareshcodes</a>
 
-github.stats (optional) ........................
-repos ........................................... —
-stars ........................................... —
-commits ......................................... —
-lines.of.code ................................... —
+currently ......................................
+• Project Developer @ UW Blueprint (BobaTalks)
+• Incoming Software Developer @ BorderPass (Winter 2026)
+• Campus Ambassador @ Intern Insider
 </pre>
 
 </td>
