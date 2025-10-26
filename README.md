@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td>
+<table align="center">
+  <tr>
+    <td align="center">
 
 <pre>
                        ###########                              
@@ -35,32 +35,34 @@
                                     #######+--.............
 </pre>
 
-</td>
-<td>
+  </td>
+  </tr>
+  <tr>
+    <td>
 
 <pre>
-haresh@github .................................. <b>Haresh Goyal</b>
-role ........................................... Computer Engineering @ UW
-focus .......................................... AI · Full-Stack · Neurotech
+<b>haresh@github</b> .................................. Haresh Goyal
+<b>role</b> ........................................... Computer Engineering @ UW
+<b>focus</b> .......................................... AI · Full-Stack · Neurotech
 
-education ...................................... B.A.Sc. Computer Engineering @ University of Waterloo
-languages.programming .......................... TypeScript, Python, C++
-stack .......................................... Next.js, Node, React Native, Vite 
-cloud/db ....................................... AWS, Firebase, MongoDB
-tools .......................................... Cursor, Git, Docker, Figma 
+<b>education</b> ...................................... B.A.Sc. Computer Engineering @ University of Waterloo
+<b>languages.programming</b> .......................... TypeScript, Python, C++
+<b>stack</b> .......................................... Next.js, Node, React Native, Vite
+<b>cloud/db</b> ....................................... AWS, Firebase, MongoDB
+<b>tools</b> .......................................... Cursor, Git, Docker, Figma
 
-projects ....................................... NeuroBlocks · Tunnel · ChunkeyMonkey
-learning ....................................... Agentic LLMs, Blockchain, Systems Design
+<b>projects</b> ....................................... NeuroBlocks · Tunnel · ChunkyMonkey
+<b>learning</b> ....................................... Agentic LLMs, Blockchain, Systems Design
 
-contact.personal ............................... <a href="https://hareshgoyal.ca">hareshgoyal.ca</a>
-contact.linkedin ............................... <a href="https://linkedin.com/in/hareshgoyal">linkedin.com/in/hareshgoyal</a>
+<b>contact.personal</b> ............................... <a href="https://hareshgoyal.ca">hareshgoyal.ca</a>
+<b>contact.linkedin</b> ............................... <a href="https://linkedin.com/in/hareshgoyal">linkedin.com/in/hareshgoyal</a>
 
-currently ......................................
+<b>currently</b> ......................................
 • Project Developer @ UW Blueprint (BobaTalks)
 • Incoming Software Developer @ BorderPass (Winter 2026)
 • Campus Ambassador @ Intern Insider
 </pre>
 
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
