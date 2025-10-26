@@ -1,7 +1,7 @@
 <table>
-  <tr>
-    <!-- LEFT: ASCII (keep inside this TD) -->
-    <td width="460" valign="top">
+<tr>
+<td>
+
 <pre>
                        ###########                              
                     ################                           
@@ -34,10 +34,10 @@
                                     #######++-.............
                                     #######+--.............
 </pre>
-    </td>
 
-    <!-- RIGHT: INFO PANEL (still inside the same TR) -->
-    <td width="520" valign="top" style="padding-left:24px;">
+</td>
+<td>
+
 <pre>
 haresh@github .................................. <b>Haresh Goyal</b>
 role ........................................... Computer Engineering @ UW
@@ -51,9 +51,9 @@ tools .......................................... VS Code, Neovim, Git, Docker
 projects ....................................... NeuroBlocks · Mesh · UpTick
 learning ....................................... Agentic LLMs, BCI, systems
 
-contact.personal ................................ <a href="https://hareshgoyal.ca">hareshgoyal.ca</a>
-contact.linkedin ................................ <a href="https://linkedin.com/in/hareshgoyal">linkedin.com/in/hareshgoyal</a>
-contact.x/twitter ................................ <a href="https://x.com/hareshcodes">@hareshcodes</a>
+contact.personal ............................... <a href="https://hareshgoyal.ca">hareshgoyal.ca</a>
+contact.linkedin ............................... <a href="https://linkedin.com/in/hareshgoyal">linkedin.com/in/hareshgoyal</a>
+contact.x/twitter .............................. <a href="https://x.com/hareshcodes">@hareshcodes</a>
 
 github.stats (optional) ........................
 repos ........................................... —
@@ -61,6 +61,7 @@ stars ........................................... —
 commits ......................................... —
 lines.of.code ................................... —
 </pre>
-    </td>
-  </tr>
+
+</td>
+</tr>
 </table>
