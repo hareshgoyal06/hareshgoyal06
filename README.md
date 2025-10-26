@@ -31,7 +31,6 @@
                                    ######+++++++---........
                                     #####++++++---.........
                                     ######++++--...........
-                                    #######++-.............
                                     #######+--.............
 </pre>
 
@@ -41,11 +40,12 @@
     <td>
 
 <pre>
-<b>haresh@github</b> .................................. Haresh Goyal
+<b>who am i?>
+<b>hareshgoyal06@github</b> ........................... Haresh Goyal
 <b>role</b> ........................................... Computer Engineering @ UW
 <b>focus</b> .......................................... AI · Full-Stack · Neurotech
 
-<b>education</b> ...................................... B.A.Sc. Computer Engineering @ University of Waterloo
+<b>education</b> ...................................... Computer Engineering @ University of Waterloo
 <b>languages.programming</b> .......................... TypeScript, Python, C++
 <b>stack</b> .......................................... Next.js, Node, React Native, Vite
 <b>cloud/db</b> ....................................... AWS, Firebase, MongoDB
