@@ -38,7 +38,7 @@
 
 <b>currently</b> ......................................
 • Project Developer @ UW Blueprint (BobaTalks)
-• Incoming Software Developer @ BorderPass (Winter 2026)
+• Software Developer @ BorderPass (Winter 2026) @haresh-bp
 </pre>
 
   </td>
