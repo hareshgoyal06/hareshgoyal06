@@ -37,8 +37,8 @@
 <b>focus</b> .......................................... AI · Full-Stack · Machine Learning
 
 <b>currently</b> ......................................
-• Project Developer @ UW Blueprint (BobaTalks)
-• Software Developer @ BorderPass (Winter 2026) @haresh-bp
+• Software Engineer Intern @ Jeeves (Summer 2026)
+• Software Engineer Intern @ BorderPass (Winter 2026) @haresh-bp
 </pre>
 
   </td>
