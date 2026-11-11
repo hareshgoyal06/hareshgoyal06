@@ -1,46 +1,36 @@
-<table align="center">
-  <tr>
-    <td align="center">
+<div align="center">
 
 <pre>
-                                                              * +               
- .            .           .                            +           *            
-     .                    ~~+                                     *             
-       o     .            |         o                                           
-+                   o   --o--                          .:'   .    _|_         . 
-                          |  .                     _.::'           |            
-                                                  (_.'                    '     
-             *o                             .      +             .              
-    ..                                                     +                    
-     .o     '.              +                  o                +     |         
-                                   .         o          .           - o -       
-                 +                 +                       .          |      +  
-          *                                        '                    .  *    
- '                         '         o            \       *              '      
-         *                 '                       \                    + .     
-                + o                         o  o    *           .-.     o   .   
-      + .                         .                      .       ) )          ..
-                     .      o              +     '       .      '-´           . 
-                        o   '        '                                          
-            '                      +         +            '      .    .          
+ _                         _
+| |__   __ _ _ __ ___  ___| |__
+| '_ \ / _` | '__/ _ \/ __| '_ \
+| | | | (_| | | |  __/\__ \ | | |
+|_| |_|\__,_|_|  \___||___/_| |_|
 </pre>
 
-  </td>
-  </tr>
-  <tr>
-    <td>
+<sub>i enjoy building and breaking things.</sub>
 
-<pre>
-<b>who am i?</b>
-<b>hareshgoyal06@github</b> ........................... Haresh Goyal
-<b>education</b> ...................................... Computer Engineering @ UW
-<b>focus</b> .......................................... AI · Full-Stack · Machine Learning
+</div>
 
-<b>currently</b> ......................................
-• Software Engineer Intern @ Jeeves (Summer 2026)
-• Software Engineer Intern @ BorderPass (Winter 2026) @haresh-bp
-</pre>
+<br>
 
-  </td>
-  </tr>
-</table>
+```
+$ whoami
+haresh goyal — computer engineering @ uwaterloo · toronto, on
+
+$ cat focus.txt
+ai · full-stack · machine learning
+
+$ cat next.txt
+swe intern @ jeeves        summer '26
+swe intern @ borderpass    winter '26
+
+$ cat links.txt
+web      hareshgoyal.ca
+x        @goyagoya06
+alt      @haresh-bp
+```
+
+<div align="center">
+<sub><a href="https://hareshgoyal.ca">hareshgoyal.ca</a> · <a href="https://x.com/goyagoya06">x</a></sub>
+</div>
